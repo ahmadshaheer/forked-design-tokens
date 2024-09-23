@@ -126,7 +126,6 @@ export const Color = {
   TEXT_FOREST_400: "#51E7A8",
   TEXT_FOREST_500: "#25E192",
   TEXT_FOREST_600: "#1EB475",
-  // colors
 };
 
 export type ColorKeys = keyof typeof Color;
