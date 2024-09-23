@@ -1,5 +1,11 @@
 # @shaheerkochai/design-tokens
 
+## 0.1.2
+
+### Patch Changes
+
+- move to separate repo
+
 ## 0.1.1
 
 ### Patch Changes

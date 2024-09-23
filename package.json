@@ -1,6 +1,6 @@
 {
   "name": "@shaheerkochai/design-tokens",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "./dist/design-tokens.js",
   "module": "./dist/design-tokens.js",
